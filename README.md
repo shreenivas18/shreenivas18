@@ -15,11 +15,6 @@ Just a curious dev tryna build cool stuff. Learning web dev, AI, and full-stack 
 
 ---
 
-### 🚀 What I do  
-- 👨‍💻 Frontend: HTML, CSS, JS, React, Next.js  
-- 🐍 Backend: Python (Flask / Django), FastAPI  
-- 🧠 Exploring AI/ML  
-- 💾 Databases, Git, APIs  
 
 </small>
 
