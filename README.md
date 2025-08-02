@@ -1,5 +1,28 @@
-# 💫 About Me:
-# 👋 Hey there, I'm Shree!<br><br>### 💻 MCA Student | 💡 Tech Explorer | 🌱 Always Learning<br><br>---<br><br>## 🧠 What am I?<br>I'm just a curious mind trying to make cool stuff with code. Currently vibing through my MCA journey, learning everything from web dev to AI, and building projects that (hopefully) make life easier and smarter.<br><br>---<br><br>## 🚀 What I do?<br>- 👨‍💻 Write clean frontend code with **HTML**, **CSS**, **JavaScript**, **React**, and sometimes **Next.js**<br>- 💾 Backend explorer with **Python (Flask / Django)** and a bit of **FastAPI**<br>- 🧠 Learning AI/ML stuff <br>- 🛠️ Build full-stack apps using **MySQL**, **Git**, and modern web tech<br>
+# 💫 About Me
+
+<h3>👋 Hey there, I'm Shree!</h3>
+
+<sub>
+💻 MCA Student | 💡 Tech Explorer | 🌱 Always Learning  
+</sub>
+
+---
+
+<sub>
+
+### 🧠 What am I?  
+Just a curious dev tryna build cool stuff. Learning web dev, AI, and full-stack magic during my MCA grind.
+
+---
+
+### 🚀 What I do  
+- 👨‍💻 Frontend with HTML, CSS, JS, React, Next.js  
+- 🐍 Backend with Python (Flask / Django), FastAPI  
+- 🧠 Playing with AI/ML  
+- 💾 MySQL, Git, APIs & all that jazz  
+
+</sub>
+
 
 
 ## 🌐 Socials:
